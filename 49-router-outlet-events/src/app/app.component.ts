@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 
-import 'rxjs/add/operator/filter';
-
 @Component({
   selector: 'app-root',
   styleUrls: ['app.component.scss'],
